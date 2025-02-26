@@ -1,0 +1,28 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Aymann/telegram_bot.git"
+  },
+  "author": "omaraymannegm@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-Aymann/telegram_bot/issues"
+  },
+  "homepage": "https://github.com/Omar-Aymann/telegram_bot#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "grammy": "^1.35.0",
+    "ts-node": "^10.9.2"
+  }
+}
